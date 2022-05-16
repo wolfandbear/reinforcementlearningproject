@@ -12,8 +12,9 @@ Command Line Output:
 <img width="112" alt="Screenshot 2022-05-16 at 12 54 25" src="https://user-images.githubusercontent.com/13466968/168577809-ade62e1f-ddd1-4c2d-b1df-4f98dce23e53.png">
 
 
-********Learning - 10'000 games*********************
-********Average reward per thousand episodes********
+
+********Average reward per thousand episodes (10'000 learning games) ********
+
 
 <img width="200" alt="Screenshot 2022-05-16 at 12 54 31" src="https://user-images.githubusercontent.com/13466968/168577832-7dc1d386-c23d-4bb5-a48e-4bf2796fa487.png">
 
@@ -25,4 +26,5 @@ Command Line Output:
  
 <img width="72" alt="Screenshot 2022-05-16 at 12 53 08" src="https://user-images.githubusercontent.com/13466968/168577575-c79f298b-9b67-48bc-bf9f-6f69b379610e.png">
 
-****You reached the goal!****
+
+****** You reached the goal! ****
